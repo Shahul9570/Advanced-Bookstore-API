@@ -3,6 +3,7 @@
 A Django REST API designed to manage a bookstore with features like JWT-based user authentication, book management, and a user review system. The API supports filtering by genre or author, enforces secure permissions, and includes a rating system for user reviews. Thoroughly tested using Postman for seamless functionality.
 ________________________________________
 **Features**
+
 User Authentication
 •	Register and log in using JWT tokens for secure user authentication.
 •	Protect sensitive endpoints with token-based authentication.
@@ -21,6 +22,7 @@ Permissions
 
 ________________________________________
 **Technologies Used**
+
 •	Django: A high-level Python web framework for rapid development.
 •	Django REST Framework (DRF): For creating robust and scalable RESTful APIs.
 •	SimpleJWT: Token-based user authentication with JSON Web Tokens.
